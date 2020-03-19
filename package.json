@@ -1,0 +1,15 @@
+{
+  "name": "xmluploader",
+  "version": "1.0.0",
+  "description": "Carga xml de manera masiva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "request": "^2.88.2"
+  }
+}
